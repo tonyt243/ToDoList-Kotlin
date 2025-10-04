@@ -7,8 +7,9 @@
 - Persistent state across simple configuration changes (e.g., screen rotation)
 
 Screenshots
+
 ![Active Tasks](screenshots/todolist.png)  
-![Completed Tasks](screenshots/completed_tasks.png)
+
 
 
 
